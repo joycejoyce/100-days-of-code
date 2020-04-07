@@ -8,6 +8,16 @@
 **Thoughts:** Encounter issues: 1) CORS 2) MIME type
 
 **Link to work:** <!-- [Calculator App](http://www.example.com) -->
+
+### Day 2: April 7, 2020
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Build monthly calendar
+
+**Thoughts:** It is not very hard, but my coding speed is too slow.
+
+**Link to work:** <!-- [Calculator App](http://www.example.com) -->
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
