@@ -18,6 +18,15 @@
 
 **Link to work:** <!-- [Calculator App](http://www.example.com) -->
 
+### Day 3: April 8, 2020
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Use JavaScript Date object to get week day abbreviations.
+
+**Thoughts:** Coding speed is progressing.
+
+**Link to work:** <!-- [Calculator App](http://www.example.com) -->
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
