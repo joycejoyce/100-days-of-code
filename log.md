@@ -27,6 +27,15 @@
 
 **Link to work:** <!-- [Calculator App](http://www.example.com) -->
 
+### Day 4: April 9, 2020
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Given year, month, and locale, prints the calendar of the month
+
+**Thoughts:** Printing out a month calendar does not take time as long as I thought.
+
+**Link to work:** <!-- [Calculator App](http://www.example.com) -->
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
