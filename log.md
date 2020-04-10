@@ -3,16 +3,16 @@
 ### Day 1: April 6, 2020
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Setup HabitTracker folder structure
+**Today's Progress**: Setup HabitTracker folder structure.
 
-**Thoughts:** Encounter issues: 1) CORS 2) MIME type
+**Thoughts:** Encounter issues: 1) CORS 2) MIME type.
 
 **Link to work:** <!-- [Calculator App](http://www.example.com) -->
 
 ### Day 2: April 7, 2020
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Build monthly calendar
+**Today's Progress**: Build monthly calendar.
 
 **Thoughts:** It is not very hard, but my coding speed is too slow.
 
@@ -30,9 +30,18 @@
 ### Day 4: April 9, 2020
 <!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Given year, month, and locale, prints the calendar of the month
+**Today's Progress**: Print calendar of a month.
 
 **Thoughts:** Printing out a month calendar does not take time as long as I thought.
+
+**Link to work:** <!-- [Calculator App](http://www.example.com) -->
+
+### Day 5: April 10, 2020
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Print calendar of a year.
+
+**Thoughts:** Learnt how to use regexp in jQuery.
 
 **Link to work:** <!-- [Calculator App](http://www.example.com) -->
 
