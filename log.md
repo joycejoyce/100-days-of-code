@@ -45,6 +45,15 @@
 
 **Link to work:** <!-- [Calculator App](http://www.example.com) -->
 
+### Day 6: April 11, 2020
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Test to draw "X" in monthly calendar.
+
+**Thoughts:** HTML canvas is very easy to use.
+
+**Link to work:** <!-- [Calculator App](http://www.example.com) -->
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
