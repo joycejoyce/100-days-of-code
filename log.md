@@ -41,3 +41,9 @@
 **Today's Progress**: Refactor calendar-related codes.
 
 **Thoughts:** Keeping functions small is really important. The refactoring I did today was fast due to this reason.
+
+### Day 8: April 13, 2020
+
+**Today's Progress**: Use jQuery UI "slide" to switch between calendars.
+
+**Thoughts:** Learned more about CSS "display" and "layout".
