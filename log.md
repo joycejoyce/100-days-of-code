@@ -47,3 +47,9 @@
 **Today's Progress**: Use jQuery UI "slide" to switch between calendars.
 
 **Thoughts:** Learned more about CSS "display" and "layout".
+
+### Day 9: April 14, 2020
+
+**Today's Progress**: Add "click" event listener to month switcher.
+
+**Thoughts:** I need to do some research about the effect range of an event listener; could it effect the parent of the dome? if it could, why?
