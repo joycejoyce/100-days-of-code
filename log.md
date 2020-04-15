@@ -52,4 +52,10 @@
 
 **Today's Progress**: Add "click" event listener to month switcher.
 
-**Thoughts:** I need to do some research about the effect range of an event listener; could it effect the parent of the dome? if it could, why?
+**Thoughts:** I need to do some research about the effect range of an event listener; could it effect the parent of the dom? if it could, why?
+
+### Day 10: April 15, 2020
+
+**Today's Progress**: Successfully switch to previous monthly calendar.
+
+**Thoughts:** Keep variable names as short as possible.
