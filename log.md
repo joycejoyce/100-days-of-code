@@ -59,3 +59,9 @@
 **Today's Progress**: Successfully switch to previous monthly calendar.
 
 **Thoughts:** Keep variable names as short as possible.
+
+### Day 11: April 16, 2020
+
+**Today's Progress**: 1) Make table cell square responsively 2) Animate the process of drawing lines 3) Understand the usage of em/rem/vh/vw
+
+**Thoughts:** Animation is fun!
