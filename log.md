@@ -65,3 +65,10 @@
 **Today's Progress**: 1) Make table cell square responsively 2) Animate the process of drawing lines 3) Understand the usage of em/rem/vh/vw
 
 **Thoughts:** Animation is fun!
+
+### Day 12: April 17, 2020
+
+**Today's Progress**: Draw "X" on the calendar
+
+**Thoughts:** By learning "HTML canvas" and "CSS position: relative + absolute", I now know how to draw the "X" on the calendar.
+
