@@ -72,3 +72,9 @@
 
 **Thoughts:** By learning "HTML canvas" and "CSS position: relative + absolute", I now know how to draw the "X" on the calendar.
 
+### Day 13: April 18, 2020
+
+**Today's Progress**: 1) Use JavaScript to create <svg> 2) Made the cross sign responsive by using SVG file
+
+**Thoughts:** I wish I could be able to use computer to draw an exquisite icon one day.
+
