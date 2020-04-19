@@ -78,3 +78,9 @@
 
 **Thoughts:** I wish I could be able to use computer to draw an exquisite icon one day.
 
+### Day 14: April 19, 2020
+
+**Today's Progress**: 1) Design DB table schema 2) Create a web page for creating DB tables
+
+**Thoughts:** Bootstrap is really handy!
+
