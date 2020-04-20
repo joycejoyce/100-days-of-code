@@ -84,3 +84,8 @@
 
 **Thoughts:** Bootstrap is really handy!
 
+### Day 15: April 20, 2020
+
+**Today's Progress**: Create and delete table "track"
+
+**Thoughts:** It's exiciting to be able to access DB with JavaScript.
