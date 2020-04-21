@@ -89,3 +89,9 @@
 **Today's Progress**: Create and delete table "track"
 
 **Thoughts:** It's exiciting to be able to access DB with JavaScript.
+
+### Day 16: April 21, 2020
+
+**Today's Progress**: Use HTML+CSS to make a fasting weekly planner.
+
+**Thoughts:** Learned color schemes and typography from this small project.
