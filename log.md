@@ -62,31 +62,31 @@
 
 ### Day 11: April 16, 2020
 
-**Today's Progress**: 1) Make table cell square responsively 2) Animate the process of drawing lines 3) Understand the usage of em/rem/vh/vw
+**Today's Progress**: 1) Make table cell square responsively 2) Animate the process of drawing lines 3) Understand the usage of em/rem/vh/vw.
 
 **Thoughts:** Animation is fun!
 
 ### Day 12: April 17, 2020
 
-**Today's Progress**: Draw "X" on the calendar
+**Today's Progress**: Draw "X" on the calendar.
 
 **Thoughts:** By learning "HTML canvas" and "CSS position: relative + absolute", I now know how to draw the "X" on the calendar.
 
 ### Day 13: April 18, 2020
 
-**Today's Progress**: 1) Use JavaScript to create <svg> 2) Made the cross sign responsive by using SVG file
+**Today's Progress**: 1) Use JavaScript to create <svg> 2) Made the cross sign responsive by using SVG file.
 
 **Thoughts:** I wish I could be able to use computer to draw an exquisite icon one day.
 
 ### Day 14: April 19, 2020
 
-**Today's Progress**: 1) Design DB table schema 2) Create a web page for creating DB tables
+**Today's Progress**: 1) Design DB table schema 2) Create a web page for creating DB tables.
 
 **Thoughts:** Bootstrap is really handy!
 
 ### Day 15: April 20, 2020
 
-**Today's Progress**: Create and delete table "track"
+**Today's Progress**: Create and delete table "track".
 
 **Thoughts:** It's exiciting to be able to access DB with JavaScript.
 
@@ -95,3 +95,9 @@
 **Today's Progress**: Use HTML+CSS to make a fasting weekly planner.
 
 **Thoughts:** Learned color schemes and typography from this small project.
+
+### Day 17: April 22, 2020
+
+**Today's Progress**: Making a GUI (HTML form) for create/delete/query tables in DynamoDB.
+
+**Thoughts:** I have the opportunity to learn PHP, CSS tricks and Bootstrap from implementing this GUI.
