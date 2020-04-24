@@ -101,3 +101,14 @@
 **Today's Progress**: Making a GUI (HTML form) for create/delete/query tables in DynamoDB.
 
 **Thoughts:** I have the opportunity to learn PHP, CSS tricks and Bootstrap from implementing this GUI.
+
+### Day 18: April 23, 2020
+
+(Didn't recorded the progress, but did code)
+
+### Day 19: April 23, 2020
+
+**Today's Progress:** Learning "Promise" of JavaScript.
+
+**Thoughts:** Need to improve my knowledge about "asynchronous"
+
