@@ -106,9 +106,15 @@
 
 (Didn't recorded the progress, but did code)
 
-### Day 19: April 23, 2020
+### Day 19: April 24, 2020
 
 **Today's Progress:** Learning "Promise" of JavaScript.
 
 **Thoughts:** Need to improve my knowledge about "asynchronous"
+
+### Day 20: April 25, 2020
+
+**Today's Progress:** 1) Learn "Promise" 2) Write a test case for DB query GUI
+
+**Thoughts:** The use of Promise is just like a sentence: promise (do something) then (do the next thing).
 
