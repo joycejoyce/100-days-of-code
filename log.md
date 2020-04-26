@@ -118,3 +118,8 @@
 
 **Thoughts:** The use of Promise is just like a sentence: promise (do something) then (do the next thing).
 
+### Day 21: April 26, 2020
+
+**Today's Progress:** Learn to use JSDOM.fromFile
+
+**Thoughts:** It's 
