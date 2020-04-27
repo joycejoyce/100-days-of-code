@@ -114,12 +114,19 @@
 
 ### Day 20: April 25, 2020
 
-**Today's Progress:** 1) Learn "Promise" 2) Write a test case for DB query GUI
+**Today's Progress:** 1) Learn "Promise" 2) Write a test case for DB query GUI.
 
 **Thoughts:** The use of Promise is just like a sentence: promise (do something) then (do the next thing).
 
 ### Day 21: April 26, 2020
 
-**Today's Progress:** Learn to use JSDOM.fromFile
+**Today's Progress:** Learn to use JSDOM.fromFile.
 
-**Thoughts:** It's 
+**Thoughts:** 
+
+### Day 22: April 26, 2020
+
+**Today's Progress:** Found jsdom option (resources: "usable") can make external CSS files work while unit testing.
+
+**Thoughts:** Next task is to make external JavaScript files work as well.
+
