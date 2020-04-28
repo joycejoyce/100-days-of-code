@@ -124,9 +124,14 @@
 
 **Thoughts:** 
 
-### Day 22: April 26, 2020
+### Day 22: April 27, 2020
 
 **Today's Progress:** Found jsdom option (resources: "usable") can make external CSS files work while unit testing.
 
 **Thoughts:** Next task is to make external JavaScript files work as well.
 
+### Day 23: April 28, 2020
+
+**Today's Progress:** Figuring out how to use ES6 module in jsdom.
+
+**Thoughts:** Just found out that due to jsdom an open source project, I have the chance to contribute to jsdom.
