@@ -141,3 +141,9 @@
 **Today's Progress:** 1) Make chai print error stack to know which line produced the error 2) Use async/await style.
 
 **Thoughts:** Learned so much more from using JSDOM! But I still haven't solved the problem:  run JavaScript in JSDOM.
+
+### Day 25: April 30, 2020
+
+**Today's Progress:** Can run JavaScript functions in JSDOM, but still can't run JavaScript modules in JSDOM.
+
+**Thoughts:** Need to learn how to use SystemJS.
