@@ -147,3 +147,9 @@
 **Today's Progress:** Can run JavaScript functions in JSDOM, but still can't run JavaScript modules in JSDOM.
 
 **Thoughts:** Need to learn how to use SystemJS.
+
+### Day 26: May 1, 2020
+
+**Today's Progress:** Can run JavaScript modules in JSDOM, but cannot load HTML synchronously. Thus the same function would be executed twice during testing.
+
+**Thoughts:** Finally got JS modules work in JSDOM!
