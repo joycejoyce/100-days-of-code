@@ -153,3 +153,9 @@
 **Today's Progress:** Can run JavaScript modules in JSDOM, but cannot load HTML synchronously. Thus the same function would be executed twice during testing.
 
 **Thoughts:** Finally got JS modules work in JSDOM!
+
+### Day 27: May 2, 2020
+
+**Today's Progress:** 1) Use global variable "window.isTesting" to control script execution in HTML. 2) Figuring out how to override BootStrap styles. 
+
+**Thoughts:** The next task is to build a user friendly DB operation GUI.
