@@ -159,3 +159,9 @@
 **Today's Progress:** 1) Use global variable "window.isTesting" to control script execution in HTML. 2) Figuring out how to override BootStrap styles. 
 
 **Thoughts:** The next task is to build a user friendly DB operation GUI.
+
+### Day 28: May 3, 2020
+
+**Today's Progress:** Start to make GUI of "DynamoDB Controller"
+
+**Thoughts:** Recently I feel kind of losing energy when coding. Maybe because I didn't make much progress on the HabitTracker project. But just remember: I'm learning along the journey!
