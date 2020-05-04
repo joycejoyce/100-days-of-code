@@ -162,6 +162,12 @@
 
 ### Day 28: May 3, 2020
 
-**Today's Progress:** Start to make GUI of "DynamoDB Controller"
+**Today's Progress:** Start to make GUI of "DynamoDB Controller".
 
 **Thoughts:** Recently I feel kind of losing energy when coding. Maybe because I didn't make much progress on the HabitTracker project. But just remember: I'm learning along the journey!
+
+### Day 29: May 4, 2020
+
+**Today's Progress:** 1) Complete the dropdown list of DB tables, and a search input field that can be used to filter table name 2) Implementing functions to get all table names from DynamoDB.
+
+**Thoughts:** Just follow the how-to series of W3School, it's very easy to complete some very useful functions.
