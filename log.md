@@ -171,3 +171,9 @@
 **Today's Progress:** 1) Complete the dropdown list of DB tables, and a search input field that can be used to filter table name 2) Implementing functions to get all table names from DynamoDB.
 
 **Thoughts:** Just follow the how-to series of W3School, it's very easy to complete some very useful functions.
+
+### Day 30: May 5, 2020
+
+**Today's Progress:** Use DynamoDB API: listTables.
+
+**Thoughts:** Fortunately, DynamoDB has a very complete and well-explained document.
