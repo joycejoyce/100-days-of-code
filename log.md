@@ -177,3 +177,9 @@
 **Today's Progress:** Use DynamoDB API: listTables.
 
 **Thoughts:** Fortunately, DynamoDB has a very complete and well-explained document.
+
+### Day 31: May 6, 2020
+
+**Today's Progress:** Designing the functions I'm going to use in DynamoDB.
+
+**Thoughts:** Despite the large number of functions, I'm going to finish each of them.
