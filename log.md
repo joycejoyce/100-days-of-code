@@ -183,3 +183,9 @@
 **Today's Progress:** Designing the functions I'm going to use in DynamoDB.
 
 **Thoughts:** Despite the large number of functions, I'm going to finish each of them.
+
+### Day 32: May 7, 2020
+
+**Today's Progress:** Use MVC Model to design "DB Data Manager".
+
+**Thoughts:** Among M/V/C, V has the most functions.
