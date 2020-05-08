@@ -189,3 +189,9 @@
 **Today's Progress:** Use MVC Model to design "DB Data Manager".
 
 **Thoughts:** Among M/V/C, V has the most functions.
+
+### Day 33: May 8, 2020
+
+**Today's Progress:** Completed desining and started to code.
+
+**Thoughts:** I MUST insist on using TDD!
