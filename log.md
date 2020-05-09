@@ -195,3 +195,9 @@
 **Today's Progress:** Completed desining and started to code.
 
 **Thoughts:** I MUST insist on using TDD!
+
+### Day 34: May 9, 2020
+
+**Today's Progress:** 1) Click tabs to show corresponding pages 2) Create a collapsible element.
+
+**Thoughts:** Next: how to center align the up/down arrowhead character?
