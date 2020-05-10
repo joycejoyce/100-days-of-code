@@ -201,3 +201,9 @@
 **Today's Progress:** 1) Click tabs to show corresponding pages 2) Create a collapsible element.
 
 **Thoughts:** Next: how to center align the up/down arrowhead character?
+
+### Day 35: May 10, 2020
+
+**Today's Progress:** Use Font Awesome Directional Icons for a dropdown list.
+
+**Thoughts:** Font Awesome is really awesome!
