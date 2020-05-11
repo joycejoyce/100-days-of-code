@@ -207,3 +207,9 @@
 **Today's Progress:** Use Font Awesome Directional Icons for a dropdown list.
 
 **Thoughts:** Font Awesome is really awesome!
+
+### Day 36: May 11, 2020
+
+**Today's Progress:** Learning how to use TDD in developing GUI components.
+
+**Thoughts:** I need at least one day to research for using TDD in developing GUI components.
