@@ -213,3 +213,9 @@
 **Today's Progress:** Learning how to use TDD in developing GUI components.
 
 **Thoughts:** I need at least one day to research for using TDD in developing GUI components.
+
+### Day 37: May 12, 2020
+
+**Today's Progress:** Completed the "view" part of "add an attribute" button.
+
+**Thoughts:** 1) There are many details that I didn't think of when designing. 2) TDD is really important and useful!
