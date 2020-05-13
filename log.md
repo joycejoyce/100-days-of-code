@@ -219,3 +219,9 @@
 **Today's Progress:** Completed the "view" part of "add an attribute" button.
 
 **Thoughts:** 1) There are many details that I didn't think of when designing. 2) TDD is really important and useful!
+
+### Day 38: May 13, 2020
+
+**Today's Progress:** Still working on "Delete All (attributes) button". Made the confirm page an independent class (ConfirmView)
+
+**Thoughts:** There are many functions (methods) in this project. Yet I used 6 days to only complete 4 of them!!
