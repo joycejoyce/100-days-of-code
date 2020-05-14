@@ -225,3 +225,9 @@
 **Today's Progress:** Still working on "Delete All (attributes) button". Made the confirm page an independent class (ConfirmView)
 
 **Thoughts:** There are many functions (methods) in this project. Yet I used 6 days to only complete 4 of them!!
+
+### Day 39: May 14, 2020
+
+**Today's Progress:** Test "Delete All (attributes) button" and its "Confirm page"
+
+**Thoughts:** Took a lot of time debugging the testing codes.
