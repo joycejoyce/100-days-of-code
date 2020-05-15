@@ -231,3 +231,9 @@
 **Today's Progress:** Test "Delete All (attributes) button" and its "Confirm page"
 
 **Thoughts:** Took a lot of time debugging the testing codes.
+
+### Day 40: May 15, 2020
+
+**Today's Progress:** 1) Completed "Attribute Definitions" section 2) Refactor testing codes.
+
+**Thoughts:** Keep on TDD!
