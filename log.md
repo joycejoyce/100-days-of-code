@@ -237,3 +237,9 @@
 **Today's Progress:** 1) Completed "Attribute Definitions" section 2) Refactor testing codes.
 
 **Thoughts:** Keep on TDD!
+
+### Day 41: May 16, 2020
+
+**Today's Progress:** Common component: Dropdown.
+
+**Thoughts:** Be carefully (and should do test) with the case where array element number = 0.
