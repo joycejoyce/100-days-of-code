@@ -243,3 +243,9 @@
 **Today's Progress:** Common component: Dropdown.
 
 **Thoughts:** Be carefully (and should do test) with the case where array element number = 0.
+
+### Day 42: May 17, 2020
+
+**Today's Progress:** Spent a lot~ of time on debugging test codes.
+
+**Thoughts:** Really want to give up on TDD...
