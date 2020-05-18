@@ -249,3 +249,9 @@
 **Today's Progress:** Spent a lot~ of time on debugging test codes.
 
 **Thoughts:** Really want to give up on TDD...
+
+### Day 43: May 18, 2020
+
+**Today's Progress:** 1) Make DoprdownView more usable 2) Use DropdownView in AttrCtrlItemVew
+
+**Thoughts:** Give up on TDD!
