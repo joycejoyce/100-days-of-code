@@ -255,3 +255,10 @@
 **Today's Progress:** 1) Make DoprdownView more usable 2) Use DropdownView in AttrCtrlItemVew
 
 **Thoughts:** Give up on TDD!
+
+### Day 44: May 19, 2020
+
+**Today's Progress:** Refactor create table page components.
+
+**Thoughts:** Since give up on TDD, the progress of project is speeding up!
+
