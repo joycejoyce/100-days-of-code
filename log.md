@@ -262,3 +262,9 @@
 
 **Thoughts:** Since give up on TDD, the progress of project is speeding up!
 
+### Day 45: May 20, 2020
+
+**Today's Progress:** Model and Controller of CreateTable.
+
+**Thoughts:** Almost complete the view part of CreateTable!
+
