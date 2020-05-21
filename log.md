@@ -268,3 +268,8 @@
 
 **Thoughts:** Almost complete the view part of CreateTable!
 
+### Day 46: May 21, 2020
+
+**Today's Progress:** 1) CreateTable page complete 2) Learned Sass today.
+
+**Thoughts:** Gotta use Sass to style up my website.
