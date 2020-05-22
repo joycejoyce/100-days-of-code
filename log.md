@@ -273,3 +273,9 @@
 **Today's Progress:** 1) CreateTable page complete 2) Learned Sass today.
 
 **Thoughts:** Gotta use Sass to style up my website.
+
+### Day 47: May 22, 2020
+
+**Today's Progress:** Style CreateTable page.
+
+**Thoughts:** Choosing font is not easy, and I should left this job to the end of the project.
