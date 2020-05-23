@@ -279,3 +279,9 @@
 **Today's Progress:** Style CreateTable page.
 
 **Thoughts:** Choosing font is not easy, and I should left this job to the end of the project.
+
+### Day 48: May 23, 2020
+
+**Today's Progress:** Common component: Collapsible.
+
+**Thoughts:** Making the common component will help not only this project but other projects as well.
