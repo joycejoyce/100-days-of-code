@@ -285,3 +285,10 @@
 **Today's Progress:** Common component: Collapsible.
 
 **Thoughts:** Making the common component will help not only this project but other projects as well.
+
+### Day 49: May 24, 2020
+
+**Today's Progress:** Common component: Collapsible and IconElement.
+
+**Thoughts:** Sass is so handy!
+
