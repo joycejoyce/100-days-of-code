@@ -292,3 +292,8 @@
 
 **Thoughts:** Sass is so handy!
 
+### Day 50: May 25, 2020
+
+**Today's Progress:** 1) Style "Create Table" page 2) Start making "Delete Table" page.
+
+**Thoughts:** I'm going to use React for this the rest of "DB Data Manage"
