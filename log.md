@@ -297,3 +297,9 @@
 **Today's Progress:** 1) Style "Create Table" page 2) Start making "Delete Table" page.
 
 **Thoughts:** I'm going to use React for this the rest of "DB Data Manage"
+
+### Day 51: May 26, 2020
+
+**Today's Progress:** Setting up the environment for running ReactJS.
+
+**Thoughts:** Getting more familiar with webpack.
