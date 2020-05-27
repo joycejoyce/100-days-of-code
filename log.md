@@ -303,3 +303,9 @@
 **Today's Progress:** Setting up the environment for running ReactJS.
 
 **Thoughts:** Getting more familiar with webpack.
+
+### Day 52: May 27, 2020
+
+**Today's Progress:** Setting up the environment for running ReactJS (done).
+
+**Thoughts:** Why use React? I'm gonna find out.
