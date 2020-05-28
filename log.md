@@ -309,3 +309,9 @@
 **Today's Progress:** Setting up the environment for running ReactJS (done).
 
 **Thoughts:** Why use React? I'm gonna find out.
+
+### Day 53: May 28, 2020
+
+**Today's Progress:** Use ReactJS to build "Delete Tables" page
+
+**Thoughts:** React is so easy to use. It makes my codes a lot cleaner.
