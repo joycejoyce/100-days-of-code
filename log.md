@@ -315,3 +315,10 @@
 **Today's Progress:** Use ReactJS to build "Delete Tables" page
 
 **Thoughts:** React is so easy to use. It makes my codes a lot cleaner.
+
+### Day 54: May 29, 2020
+
+**Today's Progress:** Use ReactJS to build 'Select All' checkbox
+
+**Thoughts:** I planned to complete the page 'Delete Tables' yet I didn't...
+
