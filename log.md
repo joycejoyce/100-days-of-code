@@ -318,7 +318,14 @@
 
 ### Day 54: May 29, 2020
 
-**Today's Progress:** Use ReactJS to build 'Select All' checkbox
+**Today's Progress:** Use ReactJS to build 'Select All' checkbox.
 
 **Thoughts:** I planned to complete the page 'Delete Tables' yet I didn't...
+
+### Day 55: May 30, 2020
+
+**Today's Progress:** Use ReactJS to build 'Select All' checkbox (done).
+
+**Thoughts:** Will I meet the schedule to complete "Manage Tables" page by tomorrow?
+
 
