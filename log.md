@@ -328,4 +328,9 @@
 
 **Thoughts:** Will I meet the schedule to complete "Manage Tables" page by tomorrow?
 
+### Day 56: May 31, 2020
+
+**Today's Progress:** Completed "Manage Tables" page.
+
+**Thoughts:** I meet the deadline of completing this page on time!
 
