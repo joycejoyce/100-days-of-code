@@ -334,3 +334,9 @@
 
 **Thoughts:** I meet the deadline of completing this page on time!
 
+### Day 57: June 1, 2020
+
+**Today's Progress:** Completed the table list dropdown of 'Query Table' page.
+
+**Thoughts:** Played with the colors today
+
