@@ -338,5 +338,10 @@
 
 **Today's Progress:** Completed the table list dropdown of 'Query Table' page.
 
-**Thoughts:** Played with the colors today
+**Thoughts:** Played with the colors today.
 
+### Day 58: June 2, 2020
+
+**Today's Progress:** Building "QueryCondition" component.
+
+**Thoughts:** Started to feel that I'm making the code complicated...
