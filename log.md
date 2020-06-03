@@ -345,3 +345,9 @@
 **Today's Progress:** Building "QueryCondition" component.
 
 **Thoughts:** Started to feel that I'm making the code complicated...
+
+### Day 59: June 3, 2020
+
+**Today's Progress:** Building "QueryForm" component.
+
+**Thoughts:** A form should be a component, otherwise, the component control will become complicated.
