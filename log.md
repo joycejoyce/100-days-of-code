@@ -351,3 +351,9 @@
 **Today's Progress:** Building "QueryForm" component.
 
 **Thoughts:** A form should be a component, otherwise, the component control will become complicated.
+
+### Day 60: June 4, 2020
+
+**Today's Progress:** Use the concepts in "Thinking in React" (https://reactjs.org/docs/thinking-in-react.html) to build ManageTableItemsView.
+
+**Thoughts:** I'm getting more familiar with React!
