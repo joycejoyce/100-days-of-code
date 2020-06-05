@@ -357,3 +357,9 @@
 **Today's Progress:** Use the concepts in "Thinking in React" (https://reactjs.org/docs/thinking-in-react.html) to build ManageTableItemsView.
 
 **Thoughts:** I'm getting more familiar with React!
+
+### Day 61: June 5, 2020
+
+**Today's Progress:** 1) Create a function to generate specified number of tables for testing. 2) Building components for querying DB.
+
+**Thoughts:** My coding seemed to speed up due to getting familiar with React.
