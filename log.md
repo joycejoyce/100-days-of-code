@@ -363,3 +363,9 @@
 **Today's Progress:** 1) Create a function to generate specified number of tables for testing. 2) Building components for querying DB.
 
 **Thoughts:** My coding seemed to speed up due to getting familiar with React.
+
+### Day 62: June 6, 2020
+
+**Today's Progress:** Continue to build CondCtrlItem.
+
+**Thoughts:** Use many levels between children and parent components to pass data control .
