@@ -368,4 +368,11 @@
 
 **Today's Progress:** Continue to build CondCtrlItem.
 
-**Thoughts:** Use many levels between children and parent components to pass data control .
+**Thoughts:** Use many levels between children and parent components to pass data control.
+
+### Day 63: June 7, 2020
+
+**Today's Progress:** Read article about React form. (https://bit.ly/2MyYSSP)
+
+**Thoughts:** Learned some JavaScript syntax from reading this article.
+
