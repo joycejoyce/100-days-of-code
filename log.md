@@ -376,3 +376,9 @@
 
 **Thoughts:** Learned some JavaScript syntax from reading this article.
 
+### Day 64: June 8, 2020
+
+**Today's Progress:** Form control component: Select.
+
+**Thoughts:** Start to apply the newly learned form control method.
+
