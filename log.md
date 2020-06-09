@@ -382,3 +382,8 @@
 
 **Thoughts:** Start to apply the newly learned form control method.
 
+### Day 65: June 9, 2020
+
+**Today's Progress:** Building form control component: Dropdown.
+
+**Thoughts:** Learning more about form control really helps to reduce duplicated codes.
