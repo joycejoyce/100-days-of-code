@@ -387,3 +387,9 @@
 **Today's Progress:** Building form control component: Dropdown.
 
 **Thoughts:** Learning more about form control really helps to reduce duplicated codes.
+
+### Day 66: June 10, 2020
+
+**Today's Progress:** Worked out a way around the problem: (ReactJS) onChange event doesn't fire when the value is changed by setState.
+
+**Thoughts:** 
