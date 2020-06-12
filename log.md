@@ -393,3 +393,16 @@
 **Today's Progress:** Worked out a way around the problem: (ReactJS) onChange event doesn't fire when the value is changed by setState.
 
 **Thoughts:** 
+
+### Day 67: June 11, 2020
+
+**Today's Progress:** (Did code, but didn't log in this logging)
+
+**Thoughts:** 
+
+### Day 68: June 12, 2020
+
+**Today's Progress:** Finally completed query condition table!!
+
+**Thoughts:** A
+
