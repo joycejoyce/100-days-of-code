@@ -404,5 +404,10 @@
 
 **Today's Progress:** Finally completed query condition table!!
 
-**Thoughts:** A
+**Thoughts:** 
 
+### Day 69: June 13, 2020
+
+**Today's Progress:** Refactor the query table part of codes.
+
+**Thoughts:** There are many similar parts in the codes, but I don't have the time to refactor them.
