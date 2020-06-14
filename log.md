@@ -411,3 +411,9 @@
 **Today's Progress:** Refactor the query table part of codes.
 
 **Thoughts:** There are many similar parts in the codes, but I don't have the time to refactor them.
+
+### Day 70: June 14, 2020
+
+**Today's Progress:** Re-design 'Manage Table Items' page.
+
+**Thoughts:** Think clear about form control before coding.
