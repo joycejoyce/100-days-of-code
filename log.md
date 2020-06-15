@@ -417,3 +417,9 @@
 **Today's Progress:** Re-design 'Manage Table Items' page.
 
 **Thoughts:** Think clear about form control before coding.
+
+### Day 71: June 15, 2020
+
+**Today's Progress:** 1) Plan for the form controls of the new designed 'Manage Table Items' page 2) ('For Test' page) Test managing table items: insert and delete 3) Learned about Dynamo DB query functions.
+
+**Thoughts:** Finally learned how to query in Dynamo DB.
