@@ -423,3 +423,9 @@
 **Today's Progress:** 1) Plan for the form controls of the new designed 'Manage Table Items' page 2) ('For Test' page) Test managing table items: insert and delete 3) Learned about Dynamo DB query functions.
 
 **Thoughts:** Finally learned how to query in Dynamo DB.
+
+### Day 72: June 16, 2020
+
+**Today's Progress:** Implement "Update & Add items".
+
+**Thoughts:** The code becomes much cleaner after these days' experience on manipulating ReactJS form data.
