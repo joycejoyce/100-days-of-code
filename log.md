@@ -429,3 +429,9 @@
 **Today's Progress:** Implement "Update & Add items".
 
 **Thoughts:** The code becomes much cleaner after these days' experience on manipulating ReactJS form data.
+
+### Day 73: June 17, 2020
+
+**Today's Progress:** Implement "Update item method: add".
+
+**Thoughts:** Learned that "attribute type" "B" in DynamoDB doesn't stand for "BOOLEAN" but "binary".
