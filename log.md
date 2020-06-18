@@ -435,3 +435,9 @@
 **Today's Progress:** Implement "Update item method: add".
 
 **Thoughts:** Learned that "attribute type" "B" in DynamoDB doesn't stand for "BOOLEAN" but "binary".
+
+### Day 74: June 18, 2020
+
+**Today's Progress:** Implement "Update item method: delete/edit/undo".
+
+**Thoughts:** Dynamo's "describe table" function doesn't provide ALL attributes but only the key attributes due to it's NoSQL.
