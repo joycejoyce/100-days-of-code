@@ -441,3 +441,9 @@
 **Today's Progress:** Implement "Update item method: delete/edit/undo".
 
 **Thoughts:** Dynamo's "describe table" function doesn't provide ALL attributes but only the key attributes due to it's NoSQL.
+
+### Day 75: June 19, 2020
+
+**Today's Progress:** Change background-color of rows according to their update methods: delete/edit/undo.
+
+**Thoughts:** It'd be very hard to tackle difficult questions when the baby's beside me crying.
