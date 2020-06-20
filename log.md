@@ -444,6 +444,6 @@
 
 ### Day 75: June 19, 2020
 
-**Today's Progress:** Change background-color of rows according to their update methods: delete/edit/undo.
+**Today's Progress:** Implementing "Undo" item function.
 
-**Thoughts:** It'd be very hard to tackle difficult questions when the baby's beside me crying.
+**Thoughts:** Recoding every changes helps me keep passionate on this project.
