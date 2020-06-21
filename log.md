@@ -444,6 +444,18 @@
 
 ### Day 75: June 19, 2020
 
+**Today's Progress:** (Did code, but didn't log in this logging)
+
+**Thoughts:** 
+
+### Day 76: June 20, 2020
+
 **Today's Progress:** Implementing "Undo" item function.
 
 **Thoughts:** Recoding every changes helps me keep passionate on this project.
+
+### Day 77: June 21, 2020
+
+**Today's Progress:** Complete "Undo" item function.
+
+**Thoughts:** Coding is the number one priority of my daily life. Do it, and then do other things afterwards.
