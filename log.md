@@ -459,3 +459,9 @@
 **Today's Progress:** Complete "Undo" item function.
 
 **Thoughts:** Coding is the number one priority of my daily life. Do it, and then do other things afterwards.
+
+### Day 78: June 22, 2020
+
+**Today's Progress:** 1) BOOL attribute dropdown 2) 'Add Attribute' function.
+
+**Thoughts:** Taking time to structure the codes right makes the whole process faster.
