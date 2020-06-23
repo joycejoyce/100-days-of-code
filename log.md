@@ -465,3 +465,9 @@
 **Today's Progress:** 1) BOOL attribute dropdown 2) 'Add Attribute' function.
 
 **Thoughts:** Taking time to structure the codes right makes the whole process faster.
+
+### Day 79: June 23, 2020
+
+**Today's Progress:** 1) Delete added attributes 2) Customize checkboxes'.
+
+**Thoughts:** 1) Checkboxes cannot be styled 2) Do code everyday. Don't be lazy or seek execuses.
