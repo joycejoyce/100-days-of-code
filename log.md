@@ -471,3 +471,9 @@
 **Today's Progress:** 1) Delete added attributes 2) Customize checkboxes'.
 
 **Thoughts:** 1) Checkboxes cannot be styled 2) Do code everyday. Don't be lazy or seek execuses.
+
+### Day 80: June 24, 2020
+
+**Today's Progress:** Delete items in Dynamo DB.
+
+**Thoughts:** Learned PromiseAll().
