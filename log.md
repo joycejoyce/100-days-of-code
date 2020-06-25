@@ -476,4 +476,10 @@
 
 **Today's Progress:** Delete items in Dynamo DB.
 
-**Thoughts:** Learned PromiseAll().
+**Thoughts:** Learned Promise.all().
+
+### Day 81: June 25, 2020
+
+**Today's Progress:** Update & Add items in Dynamo DB.
+
+**Thoughts:** Can I React's mechanisms to control vanilla JS?
