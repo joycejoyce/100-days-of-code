@@ -482,4 +482,10 @@
 
 **Today's Progress:** Update & Add items in Dynamo DB.
 
-**Thoughts:** Can I React's mechanisms to control vanilla JS?
+**Thoughts:** Can I use React's mechanisms to control vanilla JS?
+
+### Day 82: June 26, 2020
+
+**Today's Progress:** Confirm page: Add Attribute. "Cancel" and "OK" buttons onClick not yet implemented.
+
+**Thoughts:** Should've use "confirm page" to add attribute, not some random method.
