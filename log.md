@@ -489,3 +489,9 @@
 **Today's Progress:** Confirm page: Add Attribute. "Cancel" and "OK" buttons onClick not yet implemented.
 
 **Thoughts:** Should've use "confirm page" to add attribute, not some random method.
+
+### Day 83: June 27, 2020
+
+**Today's Progress:** Common component: ConfirmForm.
+
+**Thoughts:** Tryied to apply OO concepts: call method, not use data.
