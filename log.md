@@ -495,3 +495,9 @@
 **Today's Progress:** Common component: ConfirmForm.
 
 **Thoughts:** Tryied to apply OO concepts: call method, not use data.
+
+### Day 84: June 28, 2020
+
+**Today's Progress:** Completed function: Delete attributes in DB.
+
+**Thoughts:** All the clean-code works I did before made me quickly completed this function.
