@@ -501,3 +501,9 @@
 **Today's Progress:** Completed function: Delete attributes in DB.
 
 **Thoughts:** All the clean-code works I did before made me quickly completed this function.
+
+### Day 85: June 29, 2020
+
+**Today's Progress:** 1) Fix backgroun-color-not-change bugs 2) Filter data (view)
+
+**Thoughts:** The Dropdown component I made is really handy!
