@@ -507,3 +507,9 @@
 **Today's Progress:** 1) Fix backgroun-color-not-change bugs 2) Filter data (view)
 
 **Thoughts:** The Dropdown component I made is really handy!
+
+### Day 86: June 30, 2020
+
+**Today's Progress:** Complete "DB Data Manager"
+
+**Thoughts:** Finally can move forward to next project!
