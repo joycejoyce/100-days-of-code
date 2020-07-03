@@ -513,3 +513,21 @@
 **Today's Progress:** Complete "DB Data Manager"
 
 **Thoughts:** Finally can move forward to next project!
+
+### Day 87: July 01, 2020
+
+**Today's Progress:** Deciding next project.
+
+**Thoughts:**
+
+### Day 88: July 02, 2020
+
+**Today's Progress:** Deciding next project.
+
+**Thoughts:**
+
+### Day 89: July 03, 2020
+
+**Today's Progress:** "DB Data Manage" online!
+
+**Thoughts:** I'm exicited that I can learn how to learn new stuff (setup web DynamoDB) with not a very long time.
