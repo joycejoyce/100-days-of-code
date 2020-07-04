@@ -531,3 +531,9 @@
 **Today's Progress:** "DB Data Manage" online!
 
 **Thoughts:** I'm exicited that I can learn how to learn new stuff (setup web DynamoDB) with not a very long time.
+
+### Day 90: July 04, 2020
+
+**Today's Progress:** Draw 1) cloud (done) 2) beer (on-going)
+
+**Thoughts:** I can draw things with CSS as long as I know how to divide the components of the thing!
