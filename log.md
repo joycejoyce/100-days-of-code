@@ -537,3 +537,9 @@
 **Today's Progress:** Draw 1) cloud (done) 2) beer (on-going)
 
 **Thoughts:** I can draw things with CSS as long as I know how to divide the components of the thing!
+
+### Day 91: July 05, 2020
+
+**Today's Progress:** Draw a beer cup (done)
+
+**Thoughts:** Learned how to decide the hierarchy of each components.
