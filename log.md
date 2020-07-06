@@ -543,3 +543,9 @@
 **Today's Progress:** Draw a beer cup (done)
 
 **Thoughts:** Learned how to decide the hierarchy of each components.
+
+### Day 92: July 06, 2020
+
+**Today's Progress:** Clarify some basic knowledge: AJAX, Scrum (no need), npm commands, Markdown syntax, React render function parameters.
+
+**Thoughts:** Is there some design principles that I can follow to make beautiful design?
