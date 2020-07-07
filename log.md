@@ -549,3 +549,10 @@
 **Today's Progress:** Clarify some basic knowledge: AJAX, Scrum (no need), npm commands, Markdown syntax, React render function parameters.
 
 **Thoughts:** Is there some design principles that I can follow to make beautiful design?
+
+### Day 93: July 07, 2020
+
+**Today's Progress:** 1) Learn about UI design 2) webpack 3) Start to create "create habit tracker" form 
+
+**Thoughts:** I'm so eager to learn how to do UI design!
+
