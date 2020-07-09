@@ -556,3 +556,12 @@
 
 **Thoughts:** I'm so eager to learn how to do UI design!
 
+### Day 94: July 08, 2020
+
+(Didn't recorded the progress, but did code)
+
+### Day 95: July 09, 2020
+
+**Today's Progress:** 1) Learn what box-sizing (CSS attribute) is. 2) Start to pack my own handy codes as npm library.
+
+**Thoughts:** "Pack my own codes as npm library" is one of my projects!
