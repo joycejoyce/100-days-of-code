@@ -565,3 +565,9 @@
 **Today's Progress:** 1) Learn what box-sizing (CSS attribute) is. 2) Start to pack my own handy codes as npm library.
 
 **Thoughts:** "Pack my own codes as npm library" is one of my projects!
+
+### Day 96: July 10, 2020
+
+**Today's Progress:** Learn how to publish my own npm library.
+
+**Thoughts:** Also learned Jest (easy for testing React codes)!
