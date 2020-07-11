@@ -571,3 +571,9 @@
 **Today's Progress:** Learn how to publish my own npm library.
 
 **Thoughts:** Also learned Jest (easy for testing React codes)!
+
+### Day 97: July 11, 2020
+
+**Today's Progress:** Publish my own test npm package!
+
+**Thoughts:** Learned about semantic-release; it's really useful for writing git commit message.
