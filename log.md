@@ -577,3 +577,10 @@
 **Today's Progress:** Publish my own test npm package!
 
 **Thoughts:** Learned about semantic-release; it's really useful for writing git commit message.
+
+### Day 98: July 12, 2020
+
+**Today's Progress:** Publish my own npm package: changeState!
+
+**Thoughts:** Setting up development environment is always be my weak part. Through this practice of publishing npm packages, I'm improving.
+
