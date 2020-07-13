@@ -584,3 +584,9 @@
 
 **Thoughts:** Setting up development environment is always be my weak part. Through this practice of publishing npm packages, I'm improving.
 
+### Day 99: July 13, 2020
+
+**Today's Progress:** Learn more about mobile-first approach and using border to draw trapezoids and triangulars.
+
+**Thoughts:** Maybe I could develop a travel app with Jack.
+
