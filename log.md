@@ -590,3 +590,10 @@
 
 **Thoughts:** Maybe I could develop a travel app with Jack.
 
+### Day 100: July 14, 2020
+
+**Today's Progress:** Use babel + rollup (on-going).
+
+**Thoughts:** I will learn how to setup config of npm packages.
+
+
