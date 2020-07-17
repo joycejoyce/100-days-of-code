@@ -11,3 +11,9 @@
 **Today's Progress**: 1) Learn UI design and Figma 2) Search inspiration for HabitTracker
 
 **Thoughts:** "Natural Language Form" is what I'm looking for.
+
+### Day 3: July 17, 2020
+
+**Today's Progress**: Use Figma to design my natural language form.
+
+**Thoughts:** I should've learned design tools long time ago!
