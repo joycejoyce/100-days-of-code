@@ -17,3 +17,9 @@
 **Today's Progress**: Use Figma to design my natural language form.
 
 **Thoughts:** I should've learned design tools long time ago!
+
+### Day 4: July 18, 2020
+
+**Today's Progress**: Review Redux knowledge.
+
+**Thoughts:** Why Redux? I'm gonna find out tomorrow.
