@@ -23,3 +23,9 @@
 **Today's Progress**: Review Redux knowledge.
 
 **Thoughts:** Why Redux? I'm gonna find out tomorrow.
+
+### Day 5: July 19, 2020
+
+**Today's Progress**: Continue design HabitBuilder app using Figma.
+
+**Thoughts:** Wish I could finish this project as soon as possible!
