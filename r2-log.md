@@ -29,3 +29,9 @@
 **Today's Progress**: Continue design HabitBuilder app using Figma.
 
 **Thoughts:** Wish I could finish this project as soon as possible!
+
+### Day 6: July 20, 2020
+
+**Today's Progress**: Wrote common component: DropdownInput, which can show a dropdown list as we as receive user inputs.
+
+**Thoughts:** Just keep on coding every day!
