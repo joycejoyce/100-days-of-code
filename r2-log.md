@@ -35,3 +35,9 @@
 **Today's Progress**: Wrote common component: DropdownInput, which can show a dropdown list as we as receive user inputs.
 
 **Thoughts:** Just keep on coding every day!
+
+### Day 7: July 21, 2020
+
+**Today's Progress**: Complete "create habit builder" form except for the input styling.
+
+**Thoughts:** Learned how to centering things.
