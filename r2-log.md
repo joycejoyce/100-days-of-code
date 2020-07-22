@@ -41,3 +41,9 @@
 **Today's Progress**: Complete "create habit builder" form except for the input styling.
 
 **Thoughts:** Learned how to centering things.
+
+### Day 8: July 22, 2020
+
+**Today's Progress**: 1. Complete view of "Create a HabitBuilder" 2. Design the home page of HabitBuilder
+
+**Thoughts:** "Just make a decision" while designing.
