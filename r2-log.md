@@ -47,3 +47,9 @@
 **Today's Progress**: 1. Complete view of "Create a HabitBuilder" 2. Design the home page of HabitBuilder
 
 **Thoughts:** "Just make a decision" while designing.
+
+### Day 9: July 23, 2020
+
+**Today's Progress**: 1. Design HabitBuilder's "home" page and "view" page 2. Learn React
+
+**Thoughts:** 1. Use shouldComponentUpdate() of React to improve performance. 2. Use add/removeEventListener in componentDidMount & componentWillUnmount separately (best practice).
