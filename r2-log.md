@@ -53,3 +53,27 @@
 **Today's Progress**: 1. Design HabitBuilder's "home" page and "view" page 2. Learn React
 
 **Thoughts:** 1. Use shouldComponentUpdate() of React to improve performance. 2. Use add/removeEventListener in componentDidMount & componentWillUnmount separately (best practice).
+
+### Day 10: July 24, 2020
+
+**Today's Progress**: (Didn't code)
+
+**Thoughts:**
+
+### Day 11: July 25, 2020
+
+**Today's Progress**: (Didn't code)
+
+**Thoughts:**
+
+### Day 12: July 26, 2020
+
+**Today's Progress**: (Didn't code)
+
+**Thoughts:**
+
+### Day 13: July 27, 2020
+
+**Today's Progress**: Building home page.
+
+**Thoughts:** Bug: CSS selector "main section" (select ALL <section> under <main>) V.S. "main > section" (select ONLY descendant <section> under <main>)
