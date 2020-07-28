@@ -77,3 +77,9 @@
 **Today's Progress**: Building home page.
 
 **Thoughts:** Bug: CSS selector "main section" (select ALL <section> under <main>) V.S. "main > section" (select ONLY descendant <section> under <main>)
+  
+### Day 14: July 28, 2020
+
+**Today's Progress**: Complete "view" part of HabitBuilder home page.
+
+**Thoughts:** Learned many new stuff today: CSS animation and JavaScript important concepts. Noted: :before cannot by applied to <input> elements.
