@@ -83,3 +83,9 @@
 **Today's Progress**: Complete "view" part of HabitBuilder home page.
 
 **Thoughts:** Learned many new stuff today: CSS animation and JavaScript important concepts. Noted: :before cannot by applied to <input> elements.
+
+### Day 15: July 29, 2020
+
+**Today's Progress**: Learn 1) Tailwind 2) AWS: Cognito, Lambda, API Gateway
+
+**Thoughts:** Tailwind can save efforts on naming element classes.
