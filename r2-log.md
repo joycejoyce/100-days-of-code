@@ -89,3 +89,9 @@
 **Today's Progress**: Learn 1) Tailwind 2) AWS: Cognito, Lambda, API Gateway
 
 **Thoughts:** Tailwind can save efforts on naming element classes.
+
+### Day 16: July 30, 2020
+
+**Today's Progress**: Learning how to create Serverless App on AWS.
+
+**Thoughts:** Watching YouTube video is so much faster than searching through the document.
