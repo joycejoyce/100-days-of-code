@@ -95,3 +95,9 @@
 **Today's Progress**: Learning how to create Serverless App on AWS.
 
 **Thoughts:** Watching YouTube video is so much faster than searching through the document.
+
+### Day 17: July 31, 2020
+
+**Today's Progress**: Learn how to use AWS Amplify to do authentication jobs.
+
+**Thoughts:** Divide tasks to small enough would motivate me to keeping on working.
