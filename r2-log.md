@@ -101,3 +101,9 @@
 **Today's Progress**: Learn how to use AWS Amplify to do authentication jobs.
 
 **Thoughts:** Divide tasks to small enough would motivate me to keeping on working.
+
+### Day 18: August 01, 2020
+
+**Today's Progress**: Building Register form.
+
+**Thoughts:** Keep things simple. Don't over-design. Speed up!
