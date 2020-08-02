@@ -107,3 +107,9 @@
 **Today's Progress**: Building Register form.
 
 **Thoughts:** Keep things simple. Don't over-design. Speed up!
+
+### Day 19: August 02, 2020
+
+**Today's Progress**: Implementing form validation and showing the error message.
+
+**Thoughts:** Make decision and refactor later.
