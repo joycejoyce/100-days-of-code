@@ -112,4 +112,10 @@
 
 **Today's Progress**: Implementing form validation and showing the error message.
 
-**Thoughts:** Make decision and refactor later.
+**Thoughts:** Make decisions fast and refactor later.
+
+### Day 20: August 03, 2020
+
+**Today's Progress**: Complete styling the register form.
+
+**Thoughts:** Focus on the most important goal.
