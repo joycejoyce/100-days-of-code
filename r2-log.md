@@ -119,3 +119,9 @@
 **Today's Progress**: Complete styling the register form.
 
 **Thoughts:** Focus on the most important goal.
+
+### Day 21: August 04, 2020
+
+**Today's Progress**: Start to config FB social login.
+
+**Thoughts:** Amplify doc is well written.
