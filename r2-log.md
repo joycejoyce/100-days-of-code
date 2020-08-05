@@ -125,3 +125,9 @@
 **Today's Progress**: Start to config FB social login.
 
 **Thoughts:** Amplify doc is well written.
+
+### Day 22: August 05, 2020
+
+**Today's Progress**: Configuring FB social login.
+
+**Thoughts:** Gotta try create-react-app tomorrow.
