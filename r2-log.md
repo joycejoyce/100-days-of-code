@@ -131,3 +131,9 @@
 **Today's Progress**: Configuring FB social login.
 
 **Thoughts:** Gotta try create-react-app tomorrow.
+
+### Day 23: August 06, 2020
+
+**Today's Progress**: Complete configuring FB social login of AWS Amplify.
+
+**Thoughts:** It's easy and useful.
