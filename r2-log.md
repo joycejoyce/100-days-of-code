@@ -137,3 +137,9 @@
 **Today's Progress**: Complete configuring FB social login of AWS Amplify.
 
 **Thoughts:** It's easy and useful.
+
+### Day 24: August 07, 2020
+
+**Today's Progress**: Start to style Login form.
+
+**Thoughts:** Really need to learn how to organize my CSS codes.
