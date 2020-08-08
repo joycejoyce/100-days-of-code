@@ -143,3 +143,9 @@
 **Today's Progress**: Start to style Login form.
 
 **Thoughts:** Really need to learn how to organize my CSS codes.
+
+### Day 25: August 08, 2020
+
+**Today's Progress**: Learn 1) RESTful 2) Spring Boot
+
+**Thoughts:** I read Spring Boot codes before but never really understand how it works, now I have some clues.
