@@ -149,3 +149,9 @@
 **Today's Progress**: Learn 1) RESTful 2) Spring Boot
 
 **Thoughts:** I read Spring Boot codes before but never really understand how it works, now I have some clues.
+
+### Day 26: August 09, 2020
+
+**Today's Progress**: 1) Learn how to use JPA to connect to MySQL DB. 2) Design the Entity / Repository / Controller of an app.
+
+**Thoughts:** Spring Boot data provides many handy functions.
