@@ -155,3 +155,9 @@
 **Today's Progress**: 1) Learn how to use JPA to connect to MySQL DB. 2) Design the Entity / Repository / Controller of an app.
 
 **Thoughts:** Spring Boot data provides many handy functions.
+
+### Day 27: August 10, 2020
+
+**Today's Progress**: 1) Continue to build the Login page of my app. 2) Learn how to transform Java object to JSON by Jackson.
+
+**Thoughts:** So little time I have to do my side project.
