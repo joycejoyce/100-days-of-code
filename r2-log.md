@@ -161,3 +161,17 @@
 **Today's Progress**: 1) Continue to build the Login page of my app. 2) Learn how to transform Java object to JSON by Jackson.
 
 **Thoughts:** So little time I have to do my side project.
+
+### Day 28: August 11, 2020
+
+**Today's Progress**: Trying to figure out how to launch Spring Boot app on WildFly.
+
+**Thoughts:** 
+
+### Day 29: August 12, 2020
+
+**Today's Progress**: 1) Successfully launch Spring Boot app on WildFly 2) Building "Login with Facebook" button
+
+**Thoughts:** It's nice to spend time on my side project even just a little.
+
+
