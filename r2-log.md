@@ -174,4 +174,8 @@
 
 **Thoughts:** It's nice to spend time on my side project even just a little.
 
+### Day 30: August 13, 2020
 
+**Today's Progress**: Complete styling Login page.
+
+**Thoughts:** Finally complete styling this page!!!
