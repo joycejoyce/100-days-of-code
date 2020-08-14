@@ -179,3 +179,9 @@
 **Today's Progress**: Complete styling Login page.
 
 **Thoughts:** Finally complete styling this page!!!
+
+### Day 31: August 14, 2020
+
+**Today's Progress**: Take notes of AWS social login steps.
+
+**Thoughts:** Lost the notes I took last time...
