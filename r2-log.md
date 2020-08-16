@@ -185,3 +185,16 @@
 **Today's Progress**: Take notes of AWS social login steps.
 
 **Thoughts:** Lost the notes I took last time...
+
+### Day 32: August 15, 2020
+
+**Today's Progress**: Setting up FB Login.
+
+**Thoughts:** 
+
+### Day 33: August 16, 2020
+
+**Today's Progress**: FB Log-in / Log out done.
+
+**Thoughts:** I encountered some problems when setting up identity provider on FB. After spending hours trying to figure it out, I hadn't any clue. At last I redo everything again and it worked. It's strange but I'm moving on anyway.
+
