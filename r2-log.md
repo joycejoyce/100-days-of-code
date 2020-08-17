@@ -198,3 +198,8 @@
 
 **Thoughts:** I encountered some problems when setting up identity provider on FB. After spending hours trying to figure it out, I hadn't any clue. At last I redo everything again and it worked. It's strange but I'm moving on anyway.
 
+### Day 34: August 17, 2020
+
+**Today's Progress**: Learn react <Router>
+
+**Thoughts:** By applying this, I no longer need to use class="active" to switch between pages.
