@@ -203,3 +203,9 @@
 **Today's Progress**: Learn react <Router>
 
 **Thoughts:** By applying this, I no longer need to use class="active" to switch between pages.
+
+### Day 35: August 18, 2020
+
+**Today's Progress**: Try to apply <Router> in HabitBuilder
+
+**Thoughts:** Somehow I can't get it working. Gotta figure it out tomorrow.
