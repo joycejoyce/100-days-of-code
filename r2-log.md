@@ -209,3 +209,15 @@
 **Today's Progress**: Try to apply <Router> in HabitBuilder
 
 **Thoughts:** Somehow I can't get it working. Gotta figure it out tomorrow.
+
+### Day 36: August 19, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 37: August 20, 2020
+
+**Today's Progress**: Add components: NavBar, LoginOrRegister.
+
+**Thoughts:** Keep components small. Don't be afraid to modify CSS.
