@@ -221,3 +221,15 @@
 **Today's Progress**: Add components: NavBar, LoginOrRegister.
 
 **Thoughts:** Keep components small. Don't be afraid to modify CSS.
+
+### Day 38: August 21, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 39: August 22, 2020
+
+**Today's Progress**: Learn BEM and re-write CSS of HabitBuilder.
+
+**Thoughts:** BEM let me have much more control over CSS.
