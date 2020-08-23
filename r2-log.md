@@ -233,3 +233,9 @@
 **Today's Progress**: Learn BEM and re-write CSS of HabitBuilder.
 
 **Thoughts:** BEM let me have much more control over CSS.
+
+### Day 40: August 23, 2020
+
+**Today's Progress**: Complete component: Home.
+
+**Thoughts:** BEM makes controlling CSS specifity so easy.
