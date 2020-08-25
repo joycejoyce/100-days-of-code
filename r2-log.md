@@ -239,3 +239,15 @@
 **Today's Progress**: Complete component: Home.
 
 **Thoughts:** BEM makes controlling CSS specifity so easy.
+
+### Day 41: August 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 42: August 25, 2020
+
+**Today's Progress**: Refactoring component: Create.
+
+**Thoughts:** As I learn more about refactoring and React, I can make my code simpler and cleaner.
