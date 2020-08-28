@@ -251,3 +251,22 @@
 **Today's Progress**: Refactoring component: Create.
 
 **Thoughts:** As I learn more about refactoring and React, I can make my code simpler and cleaner.
+
+### Day 43: August 26, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 44: August 27, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 45: August 28, 2020
+
+**Today's Progress**: Styling component: CreateHabitBuilder
+
+**Thoughts:** Keep on coding everyday for my own project!
+
