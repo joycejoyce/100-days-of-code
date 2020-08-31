@@ -270,3 +270,26 @@
 
 **Thoughts:** Keep on coding everyday for my own project!
 
+### Day 45: August 28, 2020
+
+**Today's Progress**: Styling component: CreateHabitBuilder
+
+**Thoughts:** Keep on coding everyday for my own project!
+
+### Day 46: August 29, 2020
+
+**Today's Progress**: (WildFly) Read config file
+
+**Thoughts:** 
+
+### Day 47: August 30, 2020
+
+**Today's Progress**: (WildFly) Read config file
+
+**Thoughts:** 
+
+### Day 48: August 31, 2020
+
+**Today's Progress**: 1. Organize styles of DropdownInput 2. Learn how to use variables in SCSS Selector: #{$varName}
+
+**Thoughts:** When codes looked organized, they are usually clean as well.
