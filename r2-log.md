@@ -293,3 +293,16 @@
 **Today's Progress**: 1. Organize styles of DropdownInput 2. Learn how to use variables in SCSS Selector: #{$varName}
 
 **Thoughts:** When codes looked organized, they are usually clean as well.
+
+### Day 49: September 01, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 50: September 02, 2020
+
+**Today's Progress**: Start styling component Register.
+
+**Thoughts:** 對於common component的styling, 把className傳進去是好的嗎? 這樣是否會太複雜?
+
